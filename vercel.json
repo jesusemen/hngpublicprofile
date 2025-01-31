@@ -1,5 +1,14 @@
 {
-    "version": 2,
-    "builds": [{"src":"./app.js", "use": "@vercel/node"}],
-    "routes": [{"src": "/(.*)", "dest": "/"}]
-}
+    "name": "my-nodejs-app",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "engines": {
+      "node": "18.x"
+    }
+  }
