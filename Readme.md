@@ -50,4 +50,6 @@ npm install
 ## Links
 - [Hire Python Developers](https://hng.tech/hire/python-developers)
 - [Hire Go Developers](https://hng.tech/hire/go-developers)
-- [Hire PHP Developers]
+- - [Hire PHP Developers](https://hng.tech/hire/php-developers)
+- [Hire Java Developers](https://hng.tech/hire/java-developers)
+- [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
