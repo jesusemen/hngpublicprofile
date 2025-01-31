@@ -9,7 +9,7 @@ app.get('', (req, res) => {
     const currentDateTime = new Date().toISOString();
 
     const response = {
-         email: "ohifemehi@gmail.com",
+         email: "jay.ehimiyein@gmail.com",
          current_datetime: currentDateTime,
          github_url: "https://github.com/jesusemen/hngpublicprofile.git"
     };

@@ -14,7 +14,7 @@ This project provides a simple public API built with Express.js. The API returns
 
 ```json
 {
-  "email": "jesuemen.ehimiyein@gmail.com",
+  "email": "jay.ehimiyein@gmail.com",
   "current_datetime": "2025-01-31T20:02:55.745Z",
   "github_url": "https://github.com/jesusemen/hngpublicprofile.git"
 }
